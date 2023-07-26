@@ -1,0 +1,4 @@
+Interface Calci
+{
+intSum(int n1,int n2);
+}
